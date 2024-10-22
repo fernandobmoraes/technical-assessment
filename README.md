@@ -51,6 +51,18 @@ class Rectangle:
         else:
             # indicate that the iterator reached its end
             raise StopIteration
+'''
+Example usage:
+
+rectangle = Rectangle(1, 2)
+
+for a_dimension in rectangle:
+    print(a_dimension)
+    
+if you are in the directory of the program you can run 'python3 rectangle.py' to get as output:
+{'length': 1}
+{'width': 2}
+'''
 ```
 
 ## Considerations
