@@ -1,5 +1,5 @@
-# accuknox_django_trainee
-This is a repository containing the responses of the technical questions for Django Trainee position at AccuKnox
+# Technical Assessment
+This repository contains responses for a technical assessment
 
 ## Question 1
 By default are django signals executed synchronously or asynchronously? Please support your answer with a code snippet that conclusively proves your stance. The code does not need to be elegant and production ready, we just need to understand your logic.
